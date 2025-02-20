@@ -1,0 +1,42 @@
+.input-section{
+    
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    align-items: center;
+    margin: 30px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 1px 1px 20px #97bad1
+}
+.input-section input{
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border: 1px solid black;
+  color: #154666;
+  font-size: 15px;
+  padding: 2px;
+  padding-left: 10px;
+  margin: 5px;
+}
+.buttons{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+    
+
+}
+.buttons button{
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    border-radius: 10px;
+    background-color: #154666;
+    color: white;
+}
+.buttons button:hover{
+    background-color: #0a2d4b;
+    cursor: pointer;
+    scale: 1.05;
+}

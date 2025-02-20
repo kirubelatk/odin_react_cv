@@ -1,0 +1,177 @@
+h2{
+    text-align: left;
+    margin-left: 30px;
+}
+h1{
+    color: #2A5159;
+}
+.svg{
+    width: 40px;
+    height: 22px;
+        
+}
+.display-section{
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.info-card{
+    display: flex;
+    flex-direction: column;
+    gap: 0px;
+    color: white;
+    margin-bottom: 0px;
+    padding: 0px;
+    
+   
+
+}
+.bigname{
+    
+    margin-top: 3px;
+    font-size: 35px;
+}
+.fir{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    background-color: #2A5159;
+
+}
+.firfir{
+    
+    width: 30%;
+    text-align: left;
+    margin: 0px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.firsec{
+    width: 70%;
+    text-align: left;
+    margin-top: 50px;
+    padding-left: 0px;
+    text-align: center;
+    font-size: larger;
+}
+.pp{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 50px;
+}
+
+
+.secsec{
+    width: 100%;
+    text-align: left;
+    margin: 0px;
+    padding: 10px;
+    color: black
+}
+
+.secsecfir{
+    width: 70%;
+    text-align: left;
+    margin: 0px;
+    margin-left: 10%;
+    padding: 0px;
+    color:black
+}
+
+
+.edu-card{
+    
+    display: flex;
+    flex-direction: row ;
+    gap: 20px;
+    color: black
+}
+
+.edusec{
+    width: 100%;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+
+}
+
+.edu-infos{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    border-radius: 20px;
+    margin-left: 100px ;
+    padding: 0px;
+    
+}
+.edu-info{
+    
+    width: 70%;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+}
+
+.dates{
+    
+    width: 30%;
+    text-align: left;
+    margin: 20px;
+    padding: 0px;
+}
+
+.top{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: -10px;
+}
+.med{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+.expe-cont{
+    width: 100%;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    color: black
+}
+.expe-fir{
+    border: 1px solid black;
+    width: 30%;
+    text-align: left;
+    margin: 10px;
+    padding-left: 10px;
+    
+}
+.expe-card{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    border-radius: 20px;
+    margin-left: 100px ;
+    padding: 0px;
+}
+
+.expe-info{
+    width: 70%;
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.mnr{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 60px;
+}
